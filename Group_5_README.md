@@ -8,11 +8,11 @@ A workout tracking application that helps users log their exercises, monitor pro
 
 | Full Name | Role | GitHub Username | Assigned Atomic Task |
 |-----------|------|-----------------|---------------------|
-| Abella, Jabez Rafael | Developer | @Kamish76 | apptsx, statemanagment, feature/edit-delete |
-| Cabales, Milchzedek | Developer | @Cabales-VSU | feature/log-workout |
-| Kahano, John Andrei | Developer | @AndreiKahano | feature/weekly-summary |
-| Magadan, Evan Kasimir | Developer | @EvanMagadan | feature/workout-filter |
-| Ybas, Martin Benedict | Developer | @MarteenyWeeny | feature/daily-goals |
+| Abella, Jabez Rafael | Lead Developer | @Kamish76 | apptsx, statemanagment, feature/edit-delete |
+| Cabales, Milchzedek | Back-end Developer | @Cabales-VSU | feature/log-workout |
+| Kahano, John Andrei | Front-end Developer | @AndreiKahano | feature/weekly-summary |
+| Magadan, Evan Kasimir | Back-end Developer | @EvanMagadan | feature/workout-filter |
+| Ybas, Martin Benedict | Back-end Developer | @MarteenyWeeny | feature/daily-goals |
 
 ---
 
